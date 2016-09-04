@@ -1,5 +1,4 @@
-# knowledgebase
-Jekyll-based Knowledge Base
+# Jekyll-based Knowledge Base
 
 Inspired by the great Knowledge base made by wisecash
 https://github.com/wisecash/wisecash-support
